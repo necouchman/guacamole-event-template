@@ -1,0 +1,11 @@
+{
+    "guacamoleVersion" : "1.0.0",
+
+    "name"             : "Template Guacamole Event Listener",
+    "namespace"        : "event-template",
+
+    "listeners"    : [
+        "com.example.guacamole.auth.template.TemplateListenerClass"
+    ]
+
+}
